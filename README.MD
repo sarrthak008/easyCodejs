@@ -1,6 +1,7 @@
 # JavaScript: From Zero to Advanced with easyCode
 
-![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/JavaScript-logo.png" alt="JavaScript Logo" width="100" />
+
 
 Welcome to the **JavaScript: From Zero to Advanced** course! Whether you are a complete beginner or want to level up your JavaScript skills, this course is designed for you. We will cover everything from the very basics to the most advanced topics in JavaScript, providing you with a comprehensive understanding of this powerful language.
 
