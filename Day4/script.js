@@ -15,5 +15,5 @@ let info = "learn js with easyCode "
 
 console.info(info)
 
-// console.clear()
+ console.clear()
 
