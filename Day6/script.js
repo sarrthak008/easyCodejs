@@ -29,4 +29,11 @@ let num1 = 111
 
 let result = num1 % 2 == 0 ? "even" : "odd"
 
-console.log(result)
+//console.log(result)
+
+
+let role = "admin"
+
+let resultDashboard = role == "user" ? "user dashboard" : "admin dashboard"
+
+console.log(resultDashboard)
