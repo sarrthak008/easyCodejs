@@ -34,3 +34,10 @@
 // let b = " good night "
 
 // console.log(a + b)
+
+
+let age = prompt("enter your age ")
+
+let ageNum = parseInt(age)
+
+console.log(typeof ageNum)
