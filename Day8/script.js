@@ -36,8 +36,5 @@
 // console.log(a + b)
 
 
-let age = prompt("enter your age ")
-
-let ageNum = parseInt(age)
-
-console.log(typeof ageNum)
+let age = parseInt(prompt("enter your age : "))
+ console.log(typeof age)
