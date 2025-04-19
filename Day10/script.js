@@ -30,40 +30,114 @@
 
 
 
-let day = "sunday"
+// let day = "sunday"
 
-switch (day) {
+// switch (day) {
 
-    case "monday":
-        console.log("today is monday");
-         break;
+//     case "monday":
+//         console.log("today is monday");
+//          break;
 
-    case "tuesday":
+//     case "tuesday":
 
-        console.log("today is tuesday");
-         break;
+//         console.log("today is tuesday");
+//          break;
 
-    case "wednesday":
+//     case "wednesday":
 
-        console.log("today is wednesday");
-        break;
+//         console.log("today is wednesday");
+//         break;
 
-    case "thursday":
+//     case "thursday":
 
-        console.log("today is thursday");
-        break;
+//         console.log("today is thursday");
+//         break;
 
-    case "friday":
+//     case "friday":
 
-        console.log("today is friday");
-        break;
-    
-    default : 
-      console.log("i dont have these day ")
+//         console.log("today is friday");
+//         break;
 
-}
+//     default : 
+//       console.log("i dont have these day ")
 
-
+// }
 
 
 
+// let color = "pink"
+
+// switch(color){
+
+//     case "red" :
+//          console.log("color is red");
+//          break;
+
+//     case "green" :
+//         console.log("color is green");
+//         break;
+
+//     case "orange" : 
+//         console.log("color is orange");
+//         break;
+
+//     case "blue" : 
+//         console.log("color is blue");
+//         break;
+
+//     default : 
+//       console.log("i dont have these color")
+
+// }
+
+
+// let num1 = 10
+// let num2 = 30
+
+// let operation = "a"
+
+// switch(operation){
+//     case "+" :
+//         console.log(num1 + num2);
+//         break;
+
+//     case "-":
+//         console.log(num1 - num2);
+//         break;
+
+//     case "*":
+//         console.log(num1 * num2);
+//         break;
+
+//     case "/" :
+//         console.log(num1 / num2);
+//         break;
+
+//     case "%" :
+//         console.log(num1 % num2);
+//         break;
+
+//     default:
+//          console.error(operation + " is not supported")
+// }
+
+
+
+// function checkPelindrome(str) {
+
+//     if(typeof str != "string"){
+
+//          return console.log("please enter string")
+//     }
+ 
+
+//     let splitString = str.split("").reverse().join("")
+
+//     if (str === splitString) {
+//         console.log("string is pelindrome")
+//     } else {
+//         console.log("string is not pelindrome")
+//     }
+// }
+
+// checkPelindrome("n");
