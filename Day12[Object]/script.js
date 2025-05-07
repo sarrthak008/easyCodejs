@@ -95,4 +95,4 @@
 
 
 
-console.log(MyData.city)
+// console.log(MyData.city)

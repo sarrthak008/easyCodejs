@@ -1,0 +1,19 @@
+
+
+Object.keys(obj) = >  returs the obj all key in array from
+
+Object.values(obj) = >  returs the obj all values in array  from
+
+
+how i add new in key in the object
+ 
+ let obj = {
+     name :"sarthak",
+     age:21
+ }
+
+ obj.city = "Pune"
+
+delete obj.name
+
+
