@@ -21,6 +21,21 @@
 // console.log(abc)
 
 
-let colors = ["red", "green", "blue", "yellow", "orange", "purple"];
+// let colors = ["red", "green", "blue", "yellow", "orange", "purple"];
 
-console.log(colors.indexOf("pink"));
+// console.log(colors.indexOf("pink"));
+
+
+// let cities = ["pune","satara","mumbai","dellhi"];
+
+// // console.log(cities.reverse());
+
+// // console.log(cities.sort())
+
+// console.log(cities.includes("pune"))
+
+// console.log(cities.indexOf("morve"))
+
+// console.log(cities.toString());
+
+
