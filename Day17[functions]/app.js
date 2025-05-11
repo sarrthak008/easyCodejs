@@ -61,26 +61,27 @@
 // console.log(result)
 
 
-function checknegativepositive(num) {
-    if (num == 0) {
+// 
 
-        return ("number is zero")
+// function revArray(arr){
 
-    } else if (num > 0){
+//     let newArr = []
 
-        return("number is positive")
+//     for(let i of arr){
+//         newArr.unshift(i)
+//     }
+//     return newArr
+// }
 
-    }else{
-       return("number is negative")
-    }
-}
 
-let res = checknegativepositive(0)
+// let res = revArray([1,2,3,4,5])
+// console.log(res)
 
-let res1 = checknegativepositive(-1)
 
-let res2 = checknegativepositive(2)
 
-console.log(res)
-console.log(res1)
-console.log(res2)
+// let greet = function(user="user"){
+//     console.log(`hello ${user}`)
+// }
+
+// greet()
+// greet("sarthak")
