@@ -1,0 +1,7 @@
+what is funtions : 
+  
+  function is a block of code . that handel particular task
+
+  parameters :
+
+  arguments : value that we pass to the function 
