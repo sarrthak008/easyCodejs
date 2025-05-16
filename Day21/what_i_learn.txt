@@ -1,0 +1,10 @@
+
+
+element_name.addEventListner("event_name",callBackFunc)
+
+events : 
+   MOUSE EVENTS : 
+       click
+       dblclick
+       mouseover
+       mouseout
